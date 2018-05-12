@@ -1,0 +1,33 @@
+_repo: Turns-of-Fortune-and-Other-Tales_15961
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hall, S. C., Mrs.
+    aliases:
+    - Hall, Anna Maria Fielding
+    - Hall, Mrs S. C.
+    - Hall, Mrs. S. C.
+    birthdate: 1800
+    deathdate: 1881
+    gutenberg_agent_id: '6394'
+    url: http://www.gutenberg.org/2009/agents/6394
+description: Turns of fortune -- All is not gold that glitters -- There is no hurry.
+gutenberg_issued: '2005-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fate and fatalism -- Juvenile fiction'
+- !lcsh 'Youth and death -- Juvenile fiction'
+- !lcsh 'Love -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Turns of Fortune, and Other Tales
+url: http://www.gutenberg.org/ebooks/15961
